@@ -1,2 +1,23 @@
-# -Weather-App-with-Streamlit
-Developed an interactive weather dashboard using Python, Streamlit, and OpenWeatherMap API. Implemented live city-based forecasts with temperature, humidity, and condition tracking. Added comparison features, visual charts, and real-time data rendering. Deployed on Streamlit Cloud with clean, modular code.
+# 🌦️ Weather Dashboard
+
+An interactive weather dashboard built with **Python**, **Streamlit**, and the **OpenWeatherMap API**.  
+This app lets you search for any city worldwide and instantly get real-time weather data, including temperature, humidity, and conditions.  
+
+---
+
+## ✨ Features
+- 🔍 Search weather by city name  
+- 🌡️ Live temperature, humidity, and condition updates  
+- 📊 Interactive charts for temperature trends  
+- 📍 Supports multiple cities for easy comparison  
+- ⚡ Real-time API integration with OpenWeatherMap  
+- 🎨 Clean Streamlit-based UI, mobile-friendly  
+
+---
+
+## 🚀 How to Run
+
+1. Install dependencies manually:
+   ```bash
+   pip install streamlit requests
+
